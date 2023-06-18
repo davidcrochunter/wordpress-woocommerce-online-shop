@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/pacifico/v22/FwZY7-Qmy14u9lezJ96A.ttf) format('truetype');
+}

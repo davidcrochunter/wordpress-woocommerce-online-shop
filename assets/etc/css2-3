@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf) format('truetype');
+}

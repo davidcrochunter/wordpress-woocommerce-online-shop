@@ -1,0 +1,90 @@
+/*
+  Theme Name: Food Kingdom Templage
+  Author: D.C.Hunter
+  Description: A Woocommerce WordPress theme
+  Version: 0.0.1
+*/
+
+.per-page {
+  margin-top: calc(22px + (35 - 22) * ((100vw - 320px) / (1920 - 320)));
+}
+
+.price del {
+  float: right;
+  color: #c5c5c5 !important;
+}
+.price del span {
+  text-decoration: line-through;
+}
+.price del bdi,
+.price del bdi .woocommerce-Price-currencySymbol {
+  font-size: 15px !important;
+}
+
+.woocommerce-info {
+  margin-top: 20px;
+  border-top-color: #0da487;
+  font-size: calc(15px + (17 - 15) * ((100vw - 320px) / (1920 - 320)));
+  color: darkolivegreen;
+  border-radius: 5px;
+}
+.woocommerce-info::before {
+  color: #0da487;
+}
+
+                                                                          /* header.active .sticky-header {
+                                                                            margin-top: 30px;
+                                                                          } */
+
+/* li.disabled {
+  cursor: not-allowed;
+}
+li.disabled a i{
+  color: #c5c5c5 !important;
+}
+
+.shop-section .left-box .shop-left-sidebar .filter-category .filter-title h2 {
+  font-size: 18px;
+  padding: 0 0 8px 0;
+  font-weight: 600;
+  border-bottom: 0px solid #0da487;
+  color: #0a5c4c;
+}
+
+.theme-form-floating-2>.form-control:focus ~ label, .theme-form-floating-2>.form-control:not(:placeholder-shown) ~ label, .theme-form-floating-2>.form-select ~ label {
+  border-radius: 20px;
+}
+
+.custome-pagination {
+  margin-top: 0px;
+}
+.custome-pagination .pagination .page-item .page-link:hover {
+  color: var(--theme-color);
+}
+
+.fullpage-ajax-loader {
+  width: 100vw;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  background-color: #8bc34a00;
+  z-index: 9999;
+  opacity: 1;
+  -webkit-transition: opacity .5s;
+  transition: opacity .5s;
+  pointer-events: none;
+}
+.spinner-border {
+  display: none;
+} */

@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Kaushan Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kaushanscript/v14/vm8vdRfvXFLG3OLnsO15WYS5DF7_.ttf) format('truetype');
+}

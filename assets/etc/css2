@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Russo One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf) format('truetype');
+}

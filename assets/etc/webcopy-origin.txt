@@ -1,0 +1,2396 @@
+Uri: https://cdn.lordicon.com/oaflahpk.json
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\oaflahpk.json
+Content Type: application/json
+
+Uri: https://cdn.lordicon.com/qmcsqnle.json
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\qmcsqnle.json
+Content Type: application/json
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.compat.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\ajax\libs\animate.css\4.0.0\animate.compat.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700;800;900&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Great+Vibes&family=Qwitcher+Grypen:wght@400;700&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Pacifico&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Russo+One&display=swap
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/greatvibes/v15/RWmMoKWR9v4ksMfaWd_JN-XC.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\greatvibes\v15\RWmMoKWR9v4ksMfaWd_JN-XC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZlbg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\indieflower\v17\m8JVjfNVeKWVnh3QMuKkFcZlbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kaushanscript/v14/vm8vdRfvXFLG3OLnsO15WYS5DF7_.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\kaushanscript\v14\vm8vdRfvXFLG3OLnsO15WYS5DF7_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ96A.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\pacifico\v22\FwZY7-Qmy14u9lezJ96A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwct.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/qwitchergrypen/v3/pxicypclp9tDilN9RrC5BSI1dZmrSA.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\qwitchergrypen\v3\pxicypclp9tDilN9RrC5BSI1dZmrSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/qwitchergrypen/v3/pxiZypclp9tDilN9RrC5BSI1dZmT9Exkqg.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\qwitchergrypen\v3\pxiZypclp9tDilN9RrC5BSI1dZmT9Exkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\s\russoone\v14\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/animate.min.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/bulk-style.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\bulk-style.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/font-style.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\font-style.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/style.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\style.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/animate.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\animate.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/bootstrap.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\bootstrap.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/feather-icon.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\feather-icon.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/font-awesome.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\font-awesome.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/ion.rangeSlider.min.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\ion.rangeSlider.min.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/slick/slick-theme.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/css/vendors/slick/slick.css
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\css\vendors\slick\slick.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/appstore.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\appstore.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/10.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/11.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/7.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/8.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/banner/9.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\banner\9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/pro/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\pro\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/pro/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\pro\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/pro/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\pro\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/pro/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\pro\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/pro/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\pro\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/pro/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\pro\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/10.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/11.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cake/product/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cake\product\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/cookie-bar.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\cookie-bar.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/country/germany.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\country\germany.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/country/turkish.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\country\turkish.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/country/united-kingdom.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\country\united-kingdom.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/country/united-states.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\country\united-states.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/banner/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/banner/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/banner/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/home-banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\home-banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/10.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/11.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/12.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/7.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/8.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/fashion/product/9.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\fashion\product\9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/favicon/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\favicon\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/10.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/11.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/12.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\12.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/13.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\13.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/14.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\14.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/arrow.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/1-1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\1-1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/banner/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/bakeware.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\bakeware.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/blankets.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\blankets.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/cushions.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\cushions.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/decorations.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\decorations.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/gift.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\gift.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/pillows.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\pillows.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/room-fragrance.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\room-fragrance.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/shower.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\shower.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/sleepware.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\sleepware.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/furniture/icon/tableware.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\furniture\icon\tableware.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/bank/name/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\bank\name\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/bank/name/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\bank\name\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/bank/name/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\bank\name\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/bank/price/1.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\bank\price\1.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/bank/price/2.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\bank\price\2.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/bank/price/3.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\bank\price\3.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/11.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/12.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/7.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/9.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\banner\9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/blog/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/blog/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/blog/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/category/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\category\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/circle.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/deal/big.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\deal\big.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/breakfast/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\breakfast\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/chemist/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\chemist\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/drink/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\drink\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/fruits-vegetables/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\fruits-vegetables\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/grocery/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\grocery\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/kichen/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\kichen\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/grocery/product/personal-care/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\grocery\product\personal-care\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/hot-sale.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\hot-sale.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/mobile.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\mobile.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/music.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\music.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/paymant/american.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\paymant\american.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/paymant/discover.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\paymant\discover.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/paymant/giro-pay.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\paymant\giro-pay.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/paymant/master-card.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\paymant\master-card.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/paymant/visa.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\paymant\visa.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/icon/support.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\icon\support.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/404.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\404.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/about-us/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\about-us\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/about-us/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\about-us\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/blog/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/blog/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/blog/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/blog/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/blog/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/brand-name.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\brand-name.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/compare/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\compare\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/compare/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\compare\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/compare/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\compare\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/compare/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\compare\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/contact-us.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\contact-us.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/cover-img.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\cover-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/dashboard-profile.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\dashboard-profile.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/facebook.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\facebook.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/faq/contact.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\faq\contact.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/faq/help.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\faq\help.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/faq/price.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\faq\price.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/faq/start.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\faq\start.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/forgot.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\forgot.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/google.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\google.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/log-in.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\log-in.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/offer.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\offer.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/otp.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\otp.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/sign-up.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\sign-up.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/user/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\user\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/user/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\user\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/user/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\user\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/inner-page/user/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\inner-page\user\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/logo/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\logo\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/logo/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\logo\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/logo/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\logo\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/logo/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\logo\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/logo/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\logo\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/logo/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\logo\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/payment-icon/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\payment-icon\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/payment-icon/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\payment-icon\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/payment-icon/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\payment-icon\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/payment/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\payment\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/playstore.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\playstore.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/category/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\category\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/category/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\category\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/category/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\category\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/category/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\category\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/category/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\category\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/category/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\category\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/payment/1.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\payment\1.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/payment/2.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\payment\2.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/payment/3.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\payment\3.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/payment/4.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\payment\4.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/payment/5.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\payment\5.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/product/vendor.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\product\vendor.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/review/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\review\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/review/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\review\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/review/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\review\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/shop/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\shop\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/svg/order.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\svg\order.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/svg/pending.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\svg\pending.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/svg/wishlist.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\svg\wishlist.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/theme/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\theme\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/theme/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\theme\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/theme/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\theme\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/theme/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\theme\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/theme/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\theme\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/banner/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/banner/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/blog/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/blog/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/blog/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/blog/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/blog/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/pro/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\pro\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/pro/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\pro\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/pro/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\pro\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/pro/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\pro\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/10.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/11.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/12.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\12.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/13.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\13.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/14.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\14.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/15.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\15.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/16.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\16.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/17.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\17.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/18.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\18.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/19.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\19.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/20.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\20.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/product/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\product\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/10.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/11.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/12.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/13.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\13.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/14.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\14.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/15.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\15.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/16.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\16.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/7.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/8.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-2/top-selling/9.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-2\top-selling\9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/banner/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\banner\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/banner/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\banner\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/banner/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\banner\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/blog/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/blog/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/blog/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/10.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/11.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/12.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\12.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/13.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\13.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/14.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\14.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/15.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\15.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/16.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\16.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/17.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\17.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/18.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\18.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/cate1/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\cate1\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/category/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\category\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/home/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\home\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/home/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\home\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/home/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\home\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/home/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\home\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/10.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/11.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/12.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\12.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/pro1/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\pro1\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/shape/background.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\shape\background.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/shape/basket.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\shape\basket.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/value/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\value\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/value/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\value\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/veg-3/value/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\veg-3\value\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/10.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/11.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/12.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/13.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\13.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/14.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\14.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/15.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\15.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/4.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/5.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/6.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/7.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/8.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/banner/9.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\banner\9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/bg-img.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/blog/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/blog/2.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/blog/3.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/10.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/11.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/12.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\12.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/13.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\13.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/14.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\14.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/15.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\15.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/16.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\16.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/17.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\17.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/18.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\18.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/19.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\19.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/20.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\20.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/21.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\21.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/22.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\22.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/23.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\23.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/24.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\24.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/25.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\25.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/26.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\26.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/8.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/product/9.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\product\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vegetable/review/1.jpg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vegetable\review\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/become-saller.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\become-saller.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/1.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/2.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/3.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/4.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/5.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/6.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/images/vendor-page/logo/7.png
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\images\vendor-page\logo\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/apexchart.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\apexchart.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/auto-height.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\auto-height.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/bootstrap/bootstrap-notify.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\bootstrap\bootstrap-notify.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/bootstrap/bootstrap.bundle.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\bootstrap\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/bootstrap/popper.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\bootstrap\popper.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/clipboard.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/copy-clipboard.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\copy-clipboard.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/custom-chart.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\custom-chart.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/custom-slick-animated.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\custom-slick-animated.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/custom-wow.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\custom-wow.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/delivery-option.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\delivery-option.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/feather/feather-icon.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\feather\feather-icon.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/feather/feather.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\feather\feather.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/filter-sidebar.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\filter-sidebar.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/fly-cart.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\fly-cart.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/ion.rangeSlider.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\ion.rangeSlider.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/jquery-3.6.0.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/jquery-ui.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/jquery.elevatezoom.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\jquery.elevatezoom.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/lazysizes.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/lusqsztk.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\lusqsztk.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/nav-tab.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\nav-tab.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/otp.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\otp.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/quantity-2.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\quantity-2.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/quantity.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\quantity.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/script.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/slick/custom_slick.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\slick\custom_slick.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/slick/slick-animation.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\slick\slick-animation.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/slick/slick.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/sticky-cart-bottom.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\sticky-cart-bottom.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/table-column-remove.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\table-column-remove.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/theme-setting.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\theme-setting.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/timer1.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\timer1.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/timer2.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\timer2.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/timer3.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\timer3.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/timer4.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\timer4.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/wizard.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\wizard.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/wow.min.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/js/zoom-filter.js
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\js\zoom-filter.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/biscuit.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\biscuit.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/breakfast.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\breakfast.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/cup.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\cup.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/drink.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\drink.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/frozen.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\frozen.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/grocery.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\grocery.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/meats.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\meats.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/milk.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\milk.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/pet.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\pet.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/vegetable.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\1\vegetable.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/1.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\1.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/2.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\2.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/3.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\3.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/4.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\4.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/5.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\5.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/6.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\6.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/7.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\7.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/8.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\8.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/2/9.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\2\9.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/3/buy.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\3\buy.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/3/delivery.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\3\delivery.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/3/leaf.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\3\leaf.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/3/user.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\3\user.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/3/work.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\3\work.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/delivery.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\delivery.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/discount.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\discount.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/blzer.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\blzer.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/cords.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\cords.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/gown.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\gown.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/jacket.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\jacket.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/jeans.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\jeans.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/shapewear.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\shapewear.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/sleepwear.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\sleepwear.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/swimwear.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\swimwear.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/fashion/t-shirt.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\fashion\t-shirt.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/grid-3.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\grid-3.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/grid-4.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\grid-4.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/grid-5.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\grid-5.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/grid.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\grid.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/list.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\list.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/market.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\market.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/product.svg
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\assets\svg\product.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/404.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\404.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/about-us.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\about-us.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/blog-detail.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\blog-detail.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/blog-grid.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\blog-grid.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/blog-list.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\blog-list.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/cart.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\cart.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/checkout.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\checkout.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/coming-soon.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\coming-soon.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/compare.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\compare.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/contact-us.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\contact-us.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/faq.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\faq.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/forgot.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\forgot.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-2.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-2.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-3.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-3.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-4.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-4.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-5.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-5.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-6.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-6.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-7.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-7.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-8.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-8.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index-9.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index-9.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/index.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\index.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/login.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\login.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/order-success.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\order-success.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/order-tracking.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\order-tracking.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/otp.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\otp.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-4-image.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-4-image.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-bottom-thumbnail.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-bottom-thumbnail.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-bundle.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-bundle.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-left-thumbnail.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-left-thumbnail.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-right-thumbnail.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-right-thumbnail.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-slider.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-slider.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/product-sticky.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\product-sticky.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/search.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\search.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/seller-become.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\seller-become.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/seller-dashboard.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\seller-dashboard.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/seller-detail-2.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\seller-detail-2.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/seller-detail.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\seller-detail.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/seller-grid-2.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\seller-grid-2.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/seller-grid.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\seller-grid.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-banner.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-banner.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-category-slider.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-category-slider.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-category.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-category.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-left-sidebar.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-list.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-list.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-right-sidebar.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/shop-top-filter.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\shop-top-filter.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/sign-up.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\sign-up.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/user-dashboard.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\user-dashboard.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/front-end/wishlist.html
+File Name: C:\Users\pc\Downloads\fastkart\themes.pixelstrap.com\fastkart\front-end\wishlist.html
+Content Type: text/html
+
