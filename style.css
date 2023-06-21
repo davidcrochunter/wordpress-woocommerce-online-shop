@@ -32,6 +32,31 @@
   color: #0da487;
 }
 
+.ps40 {
+  padding: 0px 40px !important;
+}
+
+/**
+ * product add-to-cart notification
+ */
+.woocommerce-message {
+  border-top-color: #0da487 !important;
+  font-size: calc(14px + (16 - 14) * ((100vw - 320px) / (1920 - 320))) !important;
+  padding: 1em 2em 0.5em 3.5em !important;
+}
+.woocommerce-message::before {
+  content: "\e015";
+  color: #0da487 !important;
+}
+.woocommerce-message .button {
+  background: black;
+    color: white;
+    margin-top: -10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
                                                                           /* header.active .sticky-header {
                                                                             margin-top: 30px;
                                                                           } */

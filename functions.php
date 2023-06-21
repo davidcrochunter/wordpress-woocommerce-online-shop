@@ -9,13 +9,22 @@ include_once 'configs/fk-configs.php';
 include_once 'woocommerce/layouts/fk-wc-product-list-layouts.php';
 include_once 'woocommerce/layouts/fk-wc-product-list-filters.php';
 
+/**
+ * 
+ */
+$shop_page_id = wc_get_page_id( 'shop' );
+// Set the page as the front page
+update_option( 'page_on_front', $shop_page_id );
+
+
+
+
+
+
 // include_once 'woocommerce/assist/fk-wc-config.php';
 // include_once 'woocommerce/assist/fk-wc-helpers.php';
 // include_once 'woocommerce/assist/fk-wc-ajax-product-pagination.php';
 // include_once 'woocommerce/assist/fk-wc-ajax-product-search.php';
-
-
-
 
 
 // add_filter( 'page_link', 'my_custom_pagination_class', 10, 2 );

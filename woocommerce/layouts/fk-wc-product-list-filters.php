@@ -111,7 +111,6 @@ function woocommerce_products_per_page( $query ) {
 add_filter('posts_search', '__search_by_title_only', 500, 2);
 function __search_by_title_only( $search, $wp_query )
 {
-    console($search);
     /**
      * 
      * result of console($search);
