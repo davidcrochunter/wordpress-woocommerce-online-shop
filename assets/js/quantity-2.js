@@ -15,8 +15,11 @@
  });
 
  $('.qty-left-minus').on('click', function () {
-     var $qty = $(this).siblings(".qty-input");
-     var _val = $($qty).val();
+    //  var $qty = $(this).siblings(".qty-input");  //David C. Hunter
+    //  var _val = $($qty).val();                   //David C. Hunter
+     var $qty = $(this).next();                     //David C. Hunter
+     var _val = $($qty).val();                      //David C. Hunter
+
      if (_val == '1') {
          var _removeCls = $(this).parents('.cart_qty');
          $(_removeCls).removeClass("open");

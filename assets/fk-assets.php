@@ -49,6 +49,7 @@ if ( ! function_exists( 'fk_theme_stylesheet_setup' ) ):
 
         wp_enqueue_script( 'fk-wc-product-list', get_template_directory_uri().'/assets/js/fk-app/fk-wc-product-list.js', array( 'jquery' ), '1.0.0', true );
         wp_enqueue_script( 'fk-wc-product-detail', get_template_directory_uri().'/assets/js/fk-app/fk-wc-product-detail.js', array( 'jquery' ), '1.0.0', true );
+        wp_enqueue_script( 'fk-wc-product-cart', get_template_directory_uri().'/assets/js/fk-app/fk-wc-product-cart.js', array( 'jquery' ), '1.0.0', true );
 
         wp_enqueue_script( 'fk-app-custom', get_template_directory_uri().'/assets/js/fk-app/fk-app-custom.js', array( 'jquery' ), '1.0.0', true );
     }

@@ -55,35 +55,37 @@
 jQuery(document).ready(function($) {
     // Your code here
     $range     = $(".js-range-slider");
-    instance   = $range.data("ionRangeSlider");
-    max_price  = $range.data('max-price');
-    from_price = $range.data('from-price');
-    to_price   = $range.data('to-price');
-
-    instance.update({
-        min: 0,
-        max: max_price,
-        from: from_price,
-        to: to_price,
-        input_values_separator: "-",
-    });
-
-    instance.options.onFinish = function(range) {
-        // debugger;
-        console.log(range.from);
-        console.log(range.to)
-        let new_price_range = `${range.from}-${range.to}`;
-        let old_price_range = $('.woocommerce-pricing > [name="price"]').val();
-        if( old_price_range == new_price_range ) {
-            return;
-        }
-
-        $('.woocommerce-pricing > [name="price"]').val(new_price_range);
-
-        $('form.woocommerce-pricing').trigger("submit");
-
-        // mukto_fetch();
-    };
+    if( $range.length > 0 ) {
+        instance   = $range.data("ionRangeSlider");
+        max_price  = $range.data('max-price');
+        from_price = $range.data('from-price');
+        to_price   = $range.data('to-price');
+    
+        instance.update({
+            min: 0,
+            max: max_price,
+            from: from_price,
+            to: to_price,
+            input_values_separator: "-",
+        });
+    
+        instance.options.onFinish = function(range) {
+            // debugger;
+            console.log(range.from);
+            console.log(range.to)
+            let new_price_range = `${range.from}-${range.to}`;
+            let old_price_range = $('.woocommerce-pricing > [name="price"]').val();
+            if( old_price_range == new_price_range ) {
+                return;
+            }
+    
+            $('.woocommerce-pricing > [name="price"]').val(new_price_range);
+    
+            $('form.woocommerce-pricing').trigger("submit");
+    
+            // mukto_fetch();
+        };
+    }
 
 
 
