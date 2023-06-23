@@ -245,7 +245,7 @@ defined( 'ABSPATH' ) || exit;
                         <div class="button-group cart-button">
                             <ul>
                                 <li>
-                                    <button onclick="location.href = 'checkout.html';" class="btn btn-animation proceed-btn fw-bold">Process To Checkout</button>
+                                    <button onclick="location.href = '<?php echo esc_url( wc_get_checkout_url() ); ?>'" class="btn btn-animation proceed-btn fw-bold">Process To Checkout</button>
                                 </li>
 
                                 <li>

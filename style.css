@@ -63,6 +63,10 @@
   border-radius: 4px;
   float: right;
 }
+
+.cart-table table tbody tr td .quantity-price {
+    width: 100% !important;
+}
                                                                           /* header.active .sticky-header {
                                                                             margin-top: 30px;
                                                                           } */
